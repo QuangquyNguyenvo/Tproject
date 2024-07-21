@@ -1,0 +1,18 @@
+{
+  "name": "tnhoj-ide",
+  "version": "1.0.0",
+  "description": "IDE for TNHOJ",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron . "
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "ace-builds": "^1.35.3",
+    "codemirror": "^6.0.1",
+    "electron": "^x.x.x",
+    "electron-store": "^10.0.0",
+    "monaco-editor": "^0.50.0"
+  }
+}
